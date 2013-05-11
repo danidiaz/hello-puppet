@@ -41,6 +41,9 @@ package {
       'smbclient',
       'cvs',
       'x11-apps',
+      'x11-utils',
+      'xfonts-base',
+      'xterm',
       'xvfb',
       'vim',
       'tmux'
